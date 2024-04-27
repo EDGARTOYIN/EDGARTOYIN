@@ -8,7 +8,7 @@ I'm currently studying web development and trying to challenge myself to improve
 
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [a19490327@itmexicali.edu.mx](mailto:a19490327@itmexicali.edu.mx)
-* 🧠  I'm learning HTML, CSS, JS, TAILWIND CSS, VUE.JS
+* 🧠  I'm learning HTML, CSS, JS, TAILWIND CSS, REACT
 * ⚡  GG YOU KNOW WHY
 
 ### Skills
