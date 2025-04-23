@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is EDGARTOYIN
 ==================================================================================================================================
 
-Front-end web developer
+Software developer
 -----------------------
 
 I'm currently studying web development and trying to challenge myself to improve my skills every day and make my development workflow easier and give the best of me!
